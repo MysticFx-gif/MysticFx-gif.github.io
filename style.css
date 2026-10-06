@@ -1,0 +1,41 @@
+ body {
+ /* to make comment is css*/
+ 
+background-color: rgb(0, 129, 28);
+ color:rgb(0, 0, 0);
+ font-family: Georgia, 'Times New Roman', Times, serif;
+
+ }
+
+
+ /* styling dev with class name header*/
+ .header {
+
+
+
+
+
+}
+p {
+color:black
+border-color:black
+
+}
+
+
+
+
+.important{
+background-color:rgba(0, 128, 0, 0.555)
+}
+
+
+#oneElement {
+
+
+background-color:white
+
+}
+
+
+/* styling the div with class name nav */
